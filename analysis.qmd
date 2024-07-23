@@ -1,0 +1,16 @@
+---
+title: "Class Project Analysis"
+author: "Elaine Zhang"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+read.csv("STAR.csv")
+```
+
